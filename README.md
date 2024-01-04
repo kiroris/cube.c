@@ -1,6 +1,6 @@
 # 3D cube in the matrix
 
-![cube](cube.jpg)
+![cube](cube.gif)
 
 ### Building:
 ```
